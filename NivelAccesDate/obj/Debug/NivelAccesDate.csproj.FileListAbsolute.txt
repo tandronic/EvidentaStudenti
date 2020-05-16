@@ -1,0 +1,8 @@
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\NivelAccesDate\bin\Debug\LibrarieModele.dll
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\NivelAccesDate\bin\Debug\LibrarieModele.pdb
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.pdb

@@ -1,0 +1,14 @@
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe.config
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\bin\Debug\InterfataUtilizator.pdb
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\bin\Debug\LibrarieModele.dll
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\bin\Debug\NivelAccesDate.dll
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\bin\Debug\LibrarieModele.pdb
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\bin\Debug\NivelAccesDate.pdb
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csprojAssemblyReference.cache
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.FormularStudent.resources
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.Properties.Resources.resources
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CopyComplete
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.exe
+D:\Facultate\an2\sem2\piu\lab Tudor\EvidentaStudenti_Lab9\EvidentaStudenti\InterfataUtilizator\obj\Debug\InterfataUtilizator.pdb
